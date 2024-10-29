@@ -27,17 +27,24 @@ I'm a passionate data professional and web developer who loves turning data into
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    - US shopping sales data analysis using Python and Streamlit
-  
-![Project 1 Screenshot](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.jpg)
+
+### 1.US shopping sales data analysis using Python and Streamlit
+- [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    
+
+#### Project Demo
 ![Project 1 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
-### Demo
-![Project Demo](assets/project-demo.gif)
+### 2.Kenya Employment Data analysis
+- [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) - 
 
-- [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) - Kenya Employment Data analysis using Python and Streamlit libraries on unemployment trends in Kenya
-- [Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) - A website for a restaurant (Pork Shop)
+  #### Project 2 Demo
+[Project 2 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
+### 3.A website for The Pork Shop restaurant
+- [Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) 
+
+ #### Project 3 Screenshot
+[Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website.jpg)
 
 ### 📊 GitHub Stats
 
