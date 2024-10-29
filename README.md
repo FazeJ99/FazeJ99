@@ -27,7 +27,14 @@ I'm a passionate data professional and web developer who loves turning data into
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    - Superstore sales data analysis using Python and Streamlit 
+- [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    - US shopping sales data analysis using Python and Streamlit
+- 
+- ### Screenshot
+![Project Screenshot](FazeJ99/Shopping-Dashboard-Analysis/assets/Shopping Dashboard.jpg)
+
+### Demo
+![Project Demo](assets/project-demo.gif)
+
 - [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) - Kenya Employment Data analysis using Python and Streamlit libraries on unemployment trends in Kenya
 - [Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) - A website for a restaurant (Pork Shop)
 
