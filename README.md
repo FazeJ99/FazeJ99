@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 - [LinkedIn](www.linkedin.com/in/justin-ngugi-078a41314)
 - [Twitter](https://x.com/Faze__J)
 - [Email](@ngugiijustin@gmail.com)
-
+- Email me  ngugiijustin@gmail.com
 ---
 ⭐️ From [Ngugi Justin](https://github.com/FazeJ99)
 
