@@ -29,7 +29,7 @@ I'm a passionate data professional and web developer who loves turning data into
 Here are some of the projects I've worked on:
 - [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    - US shopping sales data analysis using Python and Streamlit
   
-![Project 1 Screenshot](assets/Shopping Dashboard.jpg)
+![Project 1 Screenshot](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.jpg)
 ![Project 1 Demo](project1/assets/demo.gif)
 
 ### Demo
