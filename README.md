@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 - [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    - US shopping sales data analysis using Python and Streamlit
   
 ![Project 1 Screenshot](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.jpg)
-![Project 1 Demo](project1/assets/demo.gif)
+![Project 1 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
 ### Demo
 ![Project Demo](assets/project-demo.gif)
