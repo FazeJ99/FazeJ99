@@ -37,14 +37,14 @@ Here are some of the projects I've worked on:
 ### 2.Kenya Employment Data analysis
 - [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) 
 
-  #### Project 2 Demo
-[Project 2 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
+#### Project 2 Demo
+![Project 2 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
 ### 3.A website for The Pork Shop restaurant
 - [Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) 
 
  #### Project 3 Screenshot
-[Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website.jpg)
+![Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website.jpg)
 
 ### 📊 GitHub Stats
 
