@@ -36,6 +36,10 @@ Here are some of the projects I've worked on:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FazeJ99&show_icons=true&theme=radical)
 
+### 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazeJ99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🌱 I'm currently...
 - Expanding my knowledge in machine learning and AI
 - Working on data science projects
