@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
  [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) 
 
 #### Project 2 Demo
-![Project 2 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
+![Project 2 Demo](https://github.com/FazeJ99/Employment-trends-Analysis-Dashboard/blob/main/assets/Kenya%20Employment%20Analysis.gif)
 
 ### 3.A website for The Pork Shop restaurant
 #### Click here to view the Website
