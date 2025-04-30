@@ -47,7 +47,7 @@ Here are some of the projects I've worked on:
 
 [Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) 
 
- #### Project 3 Screenshot
+ #### Project 3 Demo
 ![Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website2.gif)
 
 ### 📊 GitHub Stats
