@@ -24,31 +24,30 @@ I'm a passionate data professional and web developer who loves turning data into
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
 
-### 1.US shopping sales data analysis using Python and Streamlit
-#### Click here to view the Dashboard
- [Project 1](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    
+### 1. US Shopping Sales Data Analysis
+#### [Click here to view the Dashboard](https://shopping-dashboard-analysis-i6jvpehax2h6mjrkowujtl.streamlit.app/)    
 
 #### Project Demo
 ![Project 1 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
-### 2.Kenya Employment Data analysis
-#### Click here to view the Dashboard
- [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) 
+### 2. Kenya Employment Data Analysis
+#### [Click here to view the Dashboard](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) 
 
 #### Project 2 Demo
 ![Project 2 Demo](https://github.com/FazeJ99/Employment-trends-Analysis-Dashboard/blob/main/assets/Kenya%20Employment%20Analysis.gif)
 
-### 3.A website for The Pork Shop restaurant
-#### Click here to view the Website
+### 3. Sales Analytics Web Application
+An enterprise-grade analytics platform featuring AI-powered forecasting, customer segmentation (RFM), basket analysis, and an interactive AI assistant for querying data.
 
-[Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) 
+#### [Click here to view the Live App](https://sales-analytics-web-application-hoopxaycgmoxkyfyngtlyb.streamlit.app/) 
+#### [View Source Code](https://github.com/FazeJ99/Sales-Analytics-Web-Application)
 
- #### Project 3 Demo
-![Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website2.gif)
+---
 
 ### 📊 GitHub Stats
 
@@ -65,10 +64,8 @@ Here are some of the projects I've worked on:
 - Contributing to open-source projects
 
 ### 📫 How to reach me
-- [LinkedIn](www.linkedin.com/in/justin-ngugi-078a41314)
+- [LinkedIn](https://www.linkedin.com/in/justin-ngugi-078a41314)
 - [Twitter](https://x.com/Faze__J)
-- [Email](@ngugiijustin@gmail.com)
-- Email me  ngugiijustin@gmail.com
+- [Email](mailto:ngugiijustin@gmail.com)
 ---
 ⭐️ From [Ngugi Justin](https://github.com/FazeJ99)
-
