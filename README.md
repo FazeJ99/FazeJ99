@@ -35,9 +35,9 @@ Here are some of the projects I've worked on:
 #### Project Demo
 ![Project 1 Demo](https://github.com/FazeJ99/Shopping-Dashboard-Analysis/blob/main/assets/Shopping%20Dashboard.gif)
 
-### 2.Kenya Employment Data analysis
+### 2.Sales Analytics Platform
 #### Click here to view the Dashboard
- [Project 2](https://employment-trends-analysis-dashboard-knpdpxybknqhnwduu8bnpq.streamlit.app/) 
+ [Project 2](https://sales-analytics-web-application-hoopxaycgmoxkyfyngtlyb.streamlit.app/) 
 
 #### Project 2 Demo
 ![Project 2 Demo](https://github.com/FazeJ99/Employment-trends-Analysis-Dashboard/blob/main/assets/Kenya%20Employment%20Analysis.gif)
