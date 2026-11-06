@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
  [Project 2](https://sales-analytics-web-application-hoopxaycgmoxkyfyngtlyb.streamlit.app/) 
 
 #### Project 2 Demo
-![Project 2 Demo](https://github.com/FazeJ99/Employment-trends-Analysis-Dashboard/blob/main/assets/Kenya%20Employment%20Analysis.gif)
+![Project 2 Demo](https://github.com/FazeJ99/Sales-Analytics-Web-Application/blob/main/assets/SME%20Analytics%20platform.gif)
 
 ### 3.A website for The Pork Shop restaurant
 #### Click here to view the Website
