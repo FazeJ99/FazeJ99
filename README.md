@@ -54,7 +54,7 @@ An independent, non-partisan platform empowering Kenyan citizens ahead of the 20
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-wheat-gamma-14.vercel.app/api?username=FazeJ99&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-wheat-gamma-14.vercel.app/api?username=FazeJ99&show_icons=true&theme=radical&hide_rank=true)
 
 ### 💻 Most Used Languages
 
