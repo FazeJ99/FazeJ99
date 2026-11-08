@@ -54,11 +54,11 @@ An independent, non-partisan platform empowering Kenyan citizens ahead of the 20
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FazeJ99&show_icons=true&theme=radical&v=1)
+![GitHub Stats](https://github-readme-stats-wheat-gamma-14.vercel.app/api?username=FazeJ99&show_icons=true&theme=radical)
 
 ### 💻 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazeJ99&layout=compact&v=1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-wheat-gamma-14.vercel.app/api/top-langs/?username=FazeJ99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I'm currently...
 - Expanding my knowledge in Game Development and AI
