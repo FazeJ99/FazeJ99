@@ -42,13 +42,14 @@ Here are some of the projects I've worked on:
 #### Project 2 Demo
 ![Project 2 Demo](https://github.com/FazeJ99/Sales-Analytics-Web-Application/blob/main/assets/SMEAnalyticsplatform.gif)
 
-### 3.A website for The Pork Shop restaurant
-#### Click here to view the Website
+### 3.VoterEdu Kenya
+An independent, non-partisan platform empowering Kenyan citizens ahead of the 2027 elections. Features verified candidate profiles, side-by-side policy comparisons, and a polling station/transport locator.An independent, non-partisan platform empowering Kenyan citizens ahead of the 2027 elections.
+#### Click here to view the Project
 
-[Project 3](https://github.com/FazeJ99/Pork-Shop-Website-) 
+[Project 3](https://github.com/FazeJ99/Voter-Education-Web-Application) 
 
  #### Project 3 Demo
-![Project 3 Demo](https://github.com/FazeJ99/Pork-Shop-Website-/blob/main/assets/Pork%20Shop%20Website2.gif)
+![Project 3 Demo](https://github.com/FazeJ99/Voter-Education-Web-Application/blob/main/assets/VoterEDU.gif)
 
 ### 📊 GitHub Stats
 
@@ -59,14 +60,13 @@ Here are some of the projects I've worked on:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FazeJ99&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I'm currently...
-- Expanding my knowledge in machine learning and AI
+- Expanding my knowledge in Game Development and AI
 - Working on data science projects
 - Building web applications
 - Contributing to open-source projects
 
 ### 📫 How to reach me
 - [LinkedIn](www.linkedin.com/in/justin-ngugi-078a41314)
-- [Twitter](https://x.com/Faze__J)
 - [Email](@ngugiijustin@gmail.com)
 - Email me  ngugiijustin@gmail.com
 ---
