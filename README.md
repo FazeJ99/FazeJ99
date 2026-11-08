@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ngugi Justin
 
-## 🌍 Data Scientist & Web Developer based in Nairobi, Kenya
+## 🌍 Computer Science Student | Software Developer | Exploring Game Development
 
 I'm a passionate data professional and web developer who loves turning data into insights and building engaging web experiences.
 
