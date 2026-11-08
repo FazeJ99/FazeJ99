@@ -12,8 +12,8 @@ I'm a passionate data professional and web developer who loves turning data into
 - Data cleaning and preprocessing
 
 **Web Development**
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP, Python
+- Frontend: HTML, CSS, JS
+- Backend: Python
 - Database management
 - Responsive web design
 
